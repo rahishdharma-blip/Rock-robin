@@ -4,7 +4,7 @@
     <h1>MY FIRST GIT HUB CODE IN HTML</h1>
     <br>
     <input type = "button">
-    <h>MY LANGUAGE UNDERSTANDING IN COMPUTER SCIENCE ENGINEERING </h>
+    <h>MY LANGUAGE UNDERSTANDING IN COMPUTER SCIENCE ENGINEERING. </h>
     <ol>
       <li>JAVA</li>
       <li>PYTHON</li>
